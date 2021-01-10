@@ -1,4 +1,9 @@
 {
     "name":"@alambasha1300/tiny",
-    "version":"1.0.0"
+    "version":"1.0.0",
+    "description": "this is tiny module, which remove spaces in a string",
+    "license": "MIT",
+    "repository": "kundanbasha/tiny",
+    "main": "index.js",
+    "keywords": ["alamkundan", "tiny", "alam"]
 }
